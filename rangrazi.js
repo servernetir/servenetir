@@ -4,7 +4,7 @@ $("#rangrazis_colorname").hide();
 $("#rangrazis_colornamemegdar").hide();
 
 
-//////////////////   alert ("do we get here");    
+//////////////////  testcode  alert ("do we get here");    
 
 //////////////////   ست کردن آنی ساعت هنگام ثبت فرم   /////////////
 
